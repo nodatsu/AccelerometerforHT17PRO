@@ -1,8 +1,8 @@
 # HT17PROのセンサ機能確認用
 
-(参考) Android Studio でカメラアプリの作成
-http://appdevmem.blogspot.jp/2015/10/android-camera-app.html
+(参考) [Android] 加速度センサー：Accelerometer
+https://akira-watson.com/android/accelerometer.html
 
 * Minimum SDK 6.0 で作成
-* アプリ設定でカメラを許可する必要がある
+* サンプルコードにエラー(onPause()の直前に余計な"}"
 
